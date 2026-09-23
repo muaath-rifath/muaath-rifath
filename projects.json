@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SOL Core",
+    "repo": "muaath-rifath/sol-core",
+    "logo": "sol.png",
+    "description": "High-performance full-stack core engine and microservices architecture",
+    "tags": ["Go", "TypeScript", "C", "Docker"]
+  },
+  {
+    "name": "Terminal Dotfiles",
+    "repo": "muaath-rifath/terminal-dotfiles",
+    "logo": "terminal.png",
+    "description": "Personal terminal dotfiles — zsh + starship + fastfetch + kitty config",
+    "tags": ["Shell", "Zsh", "Linux", "Dotfiles"]
+  },
+  {
+    "name": "SOL Web",
+    "repo": "muaath-rifath/sol-nextjs",
+    "logo": "sol-web.png",
+    "description": "Modern responsive web application frontend built with Next.js",
+    "tags": ["Next.js", "TypeScript", "React", "Tailwind"]
+  },
+  {
+    "name": "Zylert Android",
+    "repo": "muaath-rifath/zylert-android",
+    "logo": "android.png",
+    "description": "Native Android client app built with Kotlin and Material 3",
+    "tags": ["Android", "Kotlin", "Mobile"]
+  },
+  {
+    "name": "Zylert API",
+    "repo": "muaath-rifath/zylert-nodejs",
+    "logo": "node.png",
+    "description": "Scalable backend API service built with Node.js and TypeScript",
+    "tags": ["Node.js", "TypeScript", "REST", "API"]
+  },
+  {
+    "name": "Fluxdial",
+    "repo": "muaath-rifath/fluxdial-home-nextjs",
+    "logo": "fluxdial.png",
+    "description": "Interactive modern web landing page with animated UI components",
+    "tags": ["Next.js", "TypeScript", "Tailwind"]
+  }
+]
