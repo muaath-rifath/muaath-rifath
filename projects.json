@@ -1,44 +1,44 @@
 [
   {
-    "name": "SOL Core",
+    "name": "Sol",
     "repo": "muaath-rifath/sol-core",
     "logo": "sol.png",
-    "description": "High-performance full-stack core engine and microservices architecture",
-    "tags": ["Go", "TypeScript", "C", "Docker"]
+    "description": "Smart home backend in Go: TimescaleDB, Redis, MQTT mTLS & LiveKit voice assistant",
+    "tags": ["Go", "MQTT", "LiveKit", "PostgreSQL"]
+  },
+  {
+    "name": "Zylert",
+    "repo": "muaath-rifath/zylert-android",
+    "logo": "android.png",
+    "description": "AI-powered notification manager for Android with priority triage and GPT summaries",
+    "tags": ["Kotlin", "Android", "Node.js", "GPT-4"]
   },
   {
     "name": "Terminal Dotfiles",
     "repo": "muaath-rifath/terminal-dotfiles",
     "logo": "terminal.png",
-    "description": "Personal terminal dotfiles — zsh + starship + fastfetch + kitty config",
-    "tags": ["Shell", "Zsh", "Linux", "Dotfiles"]
+    "description": "Personal workspace config: Arch Linux, Hyprland, Zsh, Starship, Fastfetch, Kitty",
+    "tags": ["Arch Linux", "Zsh", "Hyprland", "Shell"]
   },
   {
-    "name": "SOL Web",
+    "name": "Sol Web",
     "repo": "muaath-rifath/sol-nextjs",
     "logo": "sol-web.png",
-    "description": "Modern responsive web application frontend built with Next.js",
+    "description": "Smart home web dashboard built with Next.js, TypeScript, React, and Tailwind CSS",
     "tags": ["Next.js", "TypeScript", "React", "Tailwind"]
   },
   {
-    "name": "Zylert Android",
-    "repo": "muaath-rifath/zylert-android",
-    "logo": "android.png",
-    "description": "Native Android client app built with Kotlin and Material 3",
-    "tags": ["Android", "Kotlin", "Mobile"]
-  },
-  {
-    "name": "Zylert API",
-    "repo": "muaath-rifath/zylert-nodejs",
-    "logo": "node.png",
-    "description": "Scalable backend API service built with Node.js and TypeScript",
-    "tags": ["Node.js", "TypeScript", "REST", "API"]
-  },
-  {
-    "name": "Fluxdial",
-    "repo": "muaath-rifath/fluxdial-home-nextjs",
+    "name": "Erlang Labs Launch",
+    "repo": "muaath-rifath/erlanglabs-launch-nextjs",
     "logo": "fluxdial.png",
-    "description": "Interactive modern web landing page with animated UI components",
-    "tags": ["Next.js", "TypeScript", "Tailwind"]
+    "description": "Web frontend for AI call automation SaaS powered by Go & Python microservices",
+    "tags": ["Next.js", "TypeScript", "Tailwind", "LiveKit"]
+  },
+  {
+    "name": "Apache APISIX",
+    "repo": "muaath-rifath/apisix",
+    "logo": "node.png",
+    "description": "Cloud-native API gateway configured for JWT validation, rate limiting, and route security",
+    "tags": ["Lua", "Go", "APISIX", "Docker"]
   }
 ]
